@@ -83,9 +83,9 @@ The app deploys as a Docker web service on Render with no environment variables.
 - Render runtime: Docker
 - Build: automatic from `Dockerfile`
 - Health check path: `/healthz`
-- Deployment URL: _Added after the Render service is created._
-- Team/member details: _Add before evaluation._
-- Public repository: _Add the verified GitHub URL before evaluation._
+- Deployment URL: https://fleet-nexus-m1wu.onrender.com
+- Public repository: https://github.com/Karthik-Bedapudi/fleet-nexus
+- Maintainer: Karthik Bedapudi ([@Karthik-Bedapudi](https://github.com/Karthik-Bedapudi))
 
 ## Technology
 
